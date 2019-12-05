@@ -9,3 +9,5 @@ possa decidir melhor por onde começar.
 * [Requisitos do Bom Programador](https://github.com/e5r-learning/course-good-programmer-requirements)
 * [Intrudução ao Rust](https://github.com/e5r-learning/course-rust-intro)
 * [Rust - O básico](https://github.com/e5r-learning/course-rust-basic)
+* [Docker - O básico](https://github.com/e5r-learning/course-docker-basic)
+* [Curso Programador Nível 1](https://github.com/e5r-learning/course-programmer1)
