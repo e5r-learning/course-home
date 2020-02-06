@@ -11,4 +11,4 @@ possa decidir melhor por onde começar.
 * [Rust - O básico](https://github.com/e5r-learning/course-rust-basic)
 * [Docker - O básico](https://github.com/e5r-learning/course-docker-basic)
 * [Curso Programador Nível 1](https://github.com/e5r-learning/course-programmer1)
-* [Treinamento Avançado para Programadores Profissionais](https://github.com/e5r-learning/attp-course)
+* [Treinamento Avançado para Programadores Profissionais](https://github.com/e5r-learning/course-atpp)
