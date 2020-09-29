@@ -12,3 +12,4 @@ possa decidir melhor por onde começar.
 * [Docker - O básico](https://github.com/e5r-learning/course-docker-basic)
 * [Curso Programador Nível 1](https://github.com/e5r-learning/course-programmer1)
 * [Treinamento Avançado para Programadores Profissionais](https://github.com/e5r-learning/course-atpp)
+* [.NET Core - Para programadores Nerd's](https://github.com/e5r-learning/course-dotnetcore-nerd)
